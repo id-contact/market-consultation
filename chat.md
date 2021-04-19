@@ -1,6 +1,8 @@
 # ID Chat
 
-Een typische ID Chat-plugin werkt als volgt. Een inwoner opent de webpagina van de gemeente en kiest het gewenste kanaal en de gewenste authenticatiemethode. In dit geval kiest de inwoner voor ‘veilig chatten’. De inwoner doorloopt het authenticatieproces en geeft toestemming om bepaalde attributen (persoonlijke gegevens) te delen met de gemeente. Hoe dit authenticatieproces precies verloopt, hangt af van de gekozen authenticatiemethode en is niet van belang voor de ID bellen-plugin. Deze persoonlijke gegevens worden kortstondig opgeslagen op de backend van ID Chat-plugin met als enige doel om ze aan de agent te tonen bij het aannemen van de sessie. Het platform herkent de chattende inwoner en routeert deze naar een beschikbare KCC Agent. Bij deze agent worden de gegevens van de inwoner getoond op het scherm. 
+Een typische ID Chat-plugin werkt als volgt:
+
+*Een inwoner opent de webpagina van de gemeente en kiest het gewenste kanaal en de gewenste authenticatiemethode. In dit geval kiest de inwoner voor ‘veilig chatten’. De inwoner doorloopt het authenticatieproces en geeft toestemming om bepaalde attributen (persoonlijke gegevens) te delen met de gemeente. Hoe dit authenticatieproces precies verloopt, hangt af van de gekozen authenticatiemethode en is niet van belang voor de ID bellen-plugin. Deze persoonlijke gegevens worden kortstondig opgeslagen op de backend van ID Chat-plugin met als enige doel om ze aan de agent te tonen bij het aannemen van de sessie. Het platform herkent de chattende inwoner en routeert deze naar een beschikbare KCC Agent. Bij deze agent worden de gegevens van de inwoner getoond op het scherm.*
 
 Kort samengevat is de functie van de gevraagde ID Chat-plugin:
 - Het ontvangen en controleren van de attributen en kortstondig opslaan.
