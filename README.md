@@ -10,7 +10,7 @@ De codebase van ID Contact is open source. Het project ID Contact levert vrij to
 
 ID Contact werkt met een kernapplicatie welke communiceert met authenticatie plugins en communicatie plugins. Over de eerste gaan de gegevens van de inwoner, over de tweede de communicatie met de gemeente. Een communicatie plugin heeft twee basisfuncties: de informatie uit de authenticatie plugin tonen en zorgen dat de inwoner en gemeente met elkaar kunnen communiceren. We bouwen een communicatieplugin voor bellen, chat en video. 
 
-De werking van ID Contact en de techniek die daarvoor is ontwikkeld staat beschreven op de website docs.idcontact.nl. Hier vind je ook een uitgebreide beschrijving van de werking van de communicatieplugin, maar we vatten de verantwoordelijkheden van een communicatieplugin hier in een aantal punten kort samen:
+De werking van ID Contact en de techniek die daarvoor is ontwikkeld staat beschreven op de website [docs.idcontact.nl](https://docs.idcontact.nl). Hier vind je ook een uitgebreide beschrijving van de werking van de communicatieplugin, maar we vatten de verantwoordelijkheden van een communicatieplugin hier in een aantal punten kort samen:
 - Bij het aanmaken van een sessie bepalen waar gebruiker naartoe kan worden verwezen om de communicatie te starten. Bij bellen is het typisch een telefoonnummer + dtmf, bij chat en video een URL met sessie ID.
 - Bij het aanmaken van een sessie bepalen waar een authentiecatieplugin attributen voor deze sessie naartoe kan sturen nadat authenticatie doorlopen is.
 - Het kortstondig opslaan van attributen met als enige doel om deze te tonen aan de agent bij de communicatiesessie
