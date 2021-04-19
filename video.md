@@ -1,3 +1,5 @@
+| [Inleiding](./README.md) | [Plugin Telefonie](./telephony.md) | [Plugin Chat](./chat.md)| Plugin Video| [Reageren op deze marktverkenning](./reactions.md) |
+| ----- | ----- | ----- | ----- | ----- |
 # ID Video
 
 Er is nog geen werkende communicatie ID Video-plugin ontwikkeld voor de Proof of Concept. De werking van ID Video die we voor ogen hebben bestaat uit twee mogelijke varianten:

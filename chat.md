@@ -1,3 +1,6 @@
+| [Inleiding](./README.md) | [Plugin Telefonie](./telephony.md) | Plugin Chat | [Plugin Video](./video.md) | [Reageren op deze marktverkenning](./reactions.md) |
+| ----- | ----- | ----- | ----- | ----- |
+
 # ID Chat
 
 Een typische ID Chat-plugin werkt als volgt:

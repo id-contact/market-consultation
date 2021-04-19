@@ -1,9 +1,12 @@
+| Inleiding | [Plugin Telefonie](./telephony.md) | [Plugin Chat](./chat.md)| [Plugin Video](./video.md) | [Reageren op deze marktverkenning](./reactions.md) |
+| ----- | ----- | ----- | ----- | ----- |
+
 # ID Contact Marktconsultatie
 De gemeenten Arnhem, Nijmegen en de Drechtsteden werken samen met de Belastingdienst, Digicampus (Logius), NOVUM (Sociale Verzekeringsbank), Hogeschool Arnhem-Nijmegen (HAN) en het iHub (Radboud Universiteit) aan de innovatiepilot ID Contact. Het project werkt iteratief (SCRUM) aan de ontwikkeling in samenwerking met ontwikkelpartner Tweede Golf.
 Het doel is om middels authenticatie op afstand vast te stellen of iemand daadwerkelijk is wie die beweert te zijn door specifieke persoonsgegevens te delen. Hierna is de identiteit vastgesteld en kunnen persoonlijke zaken makkelijke, veilige en betrouwbare wijze worden afgehandeld. Zowel via de telefoon (ID Bellen) als via chat (ID Chat) als via videocontact (ID Video). 
 ID Contact heeft de potentie om op te schalen naar alle Nederlandse gemeenten en ook commerciële partijen tonen inmiddels belangstelling.
 
-Meer algemene informatie is te vinden op [www.idcontact.nl](https://www.idcontact.nl)
+Meer algemene informatie is te vinden op [idcontact.nl](https://www.idcontact.nl).
 
 ## Wat is ID Contact
 De codebase van ID Contact is open source. Het project ID Contact levert vrij toegankelijke bouwblokken op die (opnieuw) te gebruiken zijn door (overheids-)organisaties. Deze bouwblokken beschrijven het gebruik van open software, de werkwijze van de pilot, de communicatiestrategie en zowel de manier van onderzoeken als de resultaten.
