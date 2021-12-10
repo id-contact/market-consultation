@@ -1,3 +1,5 @@
+*Deze marktconsultatie is inmiddels afgerond. Wij danken de partners die input hebben geleverd naar aanleiding van onze marktvraag.*
+
 | Inleiding | [Plugin Telefonie](./telephony.md) | [Plugin Chat](./chat.md)| [Plugin Video](./video.md) | [Reageren op deze marktverkenning](./reactions.md) |
 | ----- | ----- | ----- | ----- | ----- |
 
